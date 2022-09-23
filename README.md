@@ -7,7 +7,7 @@ AP Computing Student
 I am currently completing my 4 year degree in Applied Computing at the Atlantic Technological University (ATU) based in the Letterkenny campus.
 
 * 🌍  I'm based in Letterkenny, Donegal, Ireland.
-* ✉️  You can contact me at [l00150620@student.lyit.ie](mailto:l00150620@student.lyit.ie)
+* ✉️  You can contact me at [l00150620@atu.ie](mailto:l00150620@student.lyit.ie)
 * 🧠  I'm learning to create a portfolio of web based and locally stored applications.
 * ⚡  I enjoy going between programming languages and aim to gain more under my belt.
 
