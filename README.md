@@ -1,4 +1,4 @@
-Hi, my name is Jamie McGee
+Hi, my name is Jamie
 ============================
 
 Software Engineer
