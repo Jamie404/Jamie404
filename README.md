@@ -1,13 +1,13 @@
-Hi 👋 My name is Jamie McGee
+Hi, my name is Jamie McGee
 ============================
 
 Software Engineer
 -----------------
 
-I am currently finishing my BSc (Hons) in Applied Computing at Atlantic Technological University Donegal. About to walk into a graduate position as a software engineer afterwards.
+I am currently finishing my BSc (Hons) in Applied Computing at Atlantic Technological University Donegal. About to walk into a graduate position as an associate software engineer post degree.
 
 * 🌍  I'm based in Letterkenny, Donegal, Ireland.
-* 🧠  I'm learning Python, Raspberry Pi, Data Analytics and AI, and Angular.
+* 🧠  This semester, I'm learning Python, Raspberry Pi Architecture, Data Analytics and AI, and Angular JS.
 
 <a href="https://www.github.com/Jamie404" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jamie404?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
